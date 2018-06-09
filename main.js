@@ -17,7 +17,7 @@ function loadJS (source, onready){
 }
 // thanks DracoZ12
 loadJS("http://www.windows93.net:8081/socket.io/socket.io.js")
-socket.emit('message', Args);
+alert.info("issa broken")
 console.log(Args)
 },
 hascli: true,
