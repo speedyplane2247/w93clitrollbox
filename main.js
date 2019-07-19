@@ -15,9 +15,9 @@ function loadJS (source, onready){
   document.head.appendChild(sc);
   return sc;
 }
-// thanks DracoZ12
+// fuck you DracoZ12
 loadJS("http://www.windows93.net:8081/socket.io/socket.io.js")
-alert.info("issa broken")
+//ken")
 console.log(Args)
 },
 hascli: true,
